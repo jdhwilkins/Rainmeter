@@ -1,0 +1,106 @@
+# ------------------------
+# OS / System Files
+# ------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+
+# ------------------------
+# IDE / Editor Settings
+# ------------------------
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
+*.bak
+*.tmp
+
+# ------------------------
+# Dependency Directories
+# ------------------------
+node_modules/
+bower_components/
+jspm_packages/
+.pnp/
+.pnp.js
+.venv/
+env/
+venv/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+coverage/
+dist/
+build/
+out/
+target/
+
+# ------------------------
+# Package Managers
+# ------------------------
+*.lock
+yarn-error.log
+npm-debug.log
+pnpm-debug.log
+
+# ------------------------
+# Environment / Config
+# ------------------------
+.env
+.env.*.local
+*.local
+*.secret
+*.key
+*.pem
+
+# ------------------------
+# Databases / Data Dumps
+# ------------------------
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.dump
+
+# ------------------------
+# Archives / Backup Files
+# ------------------------
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# ------------------------
+# Misc
+# ------------------------
+*.out
+*.obj
+*.dll
+*.exe
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+*.rbc
+*.sass-cache
+.cache/
+*.pid
+
+# ------------------------
+# Jupyter Notebook
+# ------------------------
+.ipynb_checkpoints/
